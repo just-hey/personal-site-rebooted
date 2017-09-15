@@ -18,11 +18,13 @@ body {
 
 .words {
   border: solid;
+  padding: 1em;
 }
 
 .aside {
   text-align: center;
   border: solid;
+  padding: 1em;
 }
 
 .image {
@@ -34,4 +36,8 @@ body {
 .footer {
   text-align: center;
   font-size: 3em;
+}
+
+.footer .fa {
+  color: #222222;
 }
