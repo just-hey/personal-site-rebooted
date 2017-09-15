@@ -12,6 +12,10 @@ body {
   background-color: #df76f2;
 }
 
+.header {
+  text-align: center;
+}
+
 .words {
   border: solid;
 }
@@ -19,10 +23,6 @@ body {
 .aside {
   text-align: center;
   border: solid;
-}
-
-.header {
-  text-align: center;
 }
 
 .image {
